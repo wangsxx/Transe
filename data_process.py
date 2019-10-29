@@ -1,5 +1,5 @@
 """
-@File  : data_precess.py
+@File  : data_process.py
 @Time  : 2019/10/23 9:26
 @Author: Wangs
 @Decs  : 预处理数据文件，构建知识图谱
