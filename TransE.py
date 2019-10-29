@@ -7,7 +7,7 @@
 import timeit
 import tensorflow as tf
 import math
-from data_precess import KnowledgeGraph
+from data_process import KnowledgeGraph
 import numpy as np
 
 
